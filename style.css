@@ -1,0 +1,41 @@
+.subtitulo{
+    font-size: 25px;
+}
+h1{
+    color:turquoise;
+}
+h2{
+    color:turquoise;
+}
+.fondo-titulo{
+    background-color: rgb(141, 139, 139);
+    border: 7px solid turquoise;
+}
+.fondo-navegador{
+    background-color: red;
+}
+.menu{
+    background-color: rgb(240, 240, 35);
+    margin-top: 0px;
+}
+footer ul li a{
+    background-color: turquoise;
+    border-radius: 3px;
+}
+.card-1{
+    border-color: 2px solid yellow;
+}
+.alimentos-varios{
+    display: flex;
+align-content: flex-end;
+justify-content: space-around;
+}
+.eukanuba{
+    padding: 15px;
+}
+.color-fondo{background-color: rgb(141, 139, 139);
+
+}
+.fotos{
+    border-color: 5px solid white;
+}
